@@ -56,12 +56,15 @@ console.log("Operational value :- ",temp);
 
 marks+=temp;
 console.log("After += :- " , marks);
+var marks = 50;
 
 marks = marks-temp;
 console.log("After -= :- " , marks);
+var marks = 50;
 
 marks *= temp;
 console.log("After *= :- " , marks);
+var marks = 50;
 
 marks = marks/temp;
 console.log("After /= :- " , marks);
